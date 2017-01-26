@@ -9,4 +9,4 @@ A first cut at visualizing the Pentagon Papers using skip-gram. For this visuali
 3. Train a word2vec model using Tensorflow
 4. Visualize the results using matplotlib as a scatter plot
 
-![Pentagon Papers: a first attempt](/pentagon-papers/7aba5.png)
+![Pentagon Papers: a first attempt](/pentagon-papers/0628d.png)
