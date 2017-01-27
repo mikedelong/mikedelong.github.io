@@ -1,6 +1,6 @@
 # Pentagon papers
 
-A first cut at an embedding visualization is available [here](/pentagon-papers/first-cut.md).
+A first cut at an embedding visualization is available [here](/pentagon-papers/first-cut.html).
 
 The original documents can be processed using `textract` to get all the text; the result is available [here](/pentagon-papers/data/pentagon-papers-txt.zip) (19Mb).
 
