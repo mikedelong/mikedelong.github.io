@@ -1,8 +1,6 @@
 # A second cut
 
-This has some of the results we would like to see: the names of the US Presidents are close together near the top center, some of the bullet point markers (e.g. "(3", "(2", "(4") cluster near top center, and some of the variant pairs ("63316" and "63316.", "War" and "War,", "Volume" and "Volun:e") are near each other, and some of the years are relatively close, some not.
-
-We've cleaned up the data somewhat by removing punctuation and small tokens. This gets rid of a lot of the garbage. Next we've used colors to distinguish different kinds of tokens: red for stopwords, cyan for partial tokens, yellow for junk, green for token that start with capital letters, and black for everything else.
+We've cleaned up the data somewhat by removing punctuation and small tokens. This gets rid of a lot of the garbage. Next we've used colors to distinguish different kinds of tokens: red for stopwords, cyan for partial tokens, yellow for junk, green for tokens that start with capital letters, and black for everything else.
 
 ![aef9f](/pentagon-papers/aef9f.png)
 
